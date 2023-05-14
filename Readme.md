@@ -7,10 +7,10 @@
 
 ## License
 <p>
-  Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-  //postman
-  https://support.postman.com/hc/en-us/articles/360003675853-Can-I-use-Postman-for-commercial-use-
-  //xampp
-  https://www.apachefriends.org/about.html
+  Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).</br>
+  //postman</br>
+  https://support.postman.com/hc/en-us/articles/360003675853-Can-I-use-Postman-for-commercial-use-</br>
+  //xampp</br>
+  https://www.apachefriends.org/about.html</br>
   //ETC
 </p>
