@@ -1,8 +1,7 @@
 ## Content && Context
-<p>this is just a testing content for nestjs Framework and there might be including other license</p>
 <p>
-  'installation and how to' are on >> miscellaneous/ (FOLDER).
-  
+  this is just a testing content for nestjs Framework and there might be including other license</br>
+  installation and how to' are on >> miscellaneous/ (FOLDER).
 </p>
 
 ## License
